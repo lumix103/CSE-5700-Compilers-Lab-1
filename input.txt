@@ -1,0 +1,3 @@
+These are a few words for my C programming
+exercise. My name is Fabian Torres
+and I love Computer Science.
